@@ -16,9 +16,7 @@ Building software for Kenyan healthcare and fintech, from Nairobi, Kenya 🇰�
 
 - 🏥 Building **Health360 Kenya**, a healthcare platform with patient, clinical and hospital apps built around FHIR interoperability
 - 🎓 4th-year **BSc Business Computing** student at Jomo Kenyatta University of Agriculture and Technology (class of 2027)
-- 🌱 Learning full-stack web development and contributing to open source (**Meshery / Layer5**, CNCF)
 - 🤝 Member of the **Innovation & Entrepreneurship Club** at JKUAT
-- 💬 Ask me about health-data interoperability, M-Pesa integrations, or data dashboards
 
 ---
 
